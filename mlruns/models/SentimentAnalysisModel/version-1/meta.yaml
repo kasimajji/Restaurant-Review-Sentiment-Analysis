@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1747025316796
+current_stage: Production
+description: null
+last_updated_timestamp: 1747025316799
+name: SentimentAnalysisModel
+run_id: 199cc61f74c34601913481b02fb9f71f
+run_link: null
+source: /Users/kasimajji/Desktop/Sentiment/mlruns/651508306713935370/199cc61f74c34601913481b02fb9f71f/artifacts/sentiment_model
+status: READY
+status_message: null
+storage_location: /Users/kasimajji/Desktop/Sentiment/mlruns/651508306713935370/199cc61f74c34601913481b02fb9f71f/artifacts/sentiment_model
+user_id: null
+version: 1
