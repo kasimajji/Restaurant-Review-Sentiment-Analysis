@@ -142,15 +142,15 @@ Hyperparameters:
 <div align="center">
 <table>
   <tr>
-    <td><img src="./mlflowui/Screenshot 2025-05-12 at 12.46.02 AM.png" alt="MLflow Experiments" width="400"/></td>
-    <td><img src="./mlflowui/Screenshot 2025-05-12 at 12.46.43 AM.png" alt="MLflow Run Details" width="400"/></td>
+    <td><img src="mlflowui/Screenshot 2025-05-12 at 12.46.43 AM.png" alt="MLflow Experiments" width="400"/></td>
+    <td><img src="mlflowui/Screenshot 2025-05-12 at 12.47.13 AM.png" alt="MLflow Run Details" width="400"/></td>
   </tr>
   <tr>
     <td align="center"><em>MLflow Experiments Dashboard</em></td>
     <td align="center"><em>MLflow Run Details with Metrics</em></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="./mlflowui/Screenshot 2025-05-12 at 12.47.13 AM.png" alt="MLflow Model Registry" width="800"/></td>
+    <td colspan="2"><img src="mlflowui/Screenshot 2025-05-12 at 12.46.02 AM.png" alt="MLflow Model Registry" width="800"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><em>MLflow Model Registry - Showing Model Versions and Stages</em></td>
@@ -248,12 +248,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For any questions or feedback, please reach out to kasi[.majji24@gmail.com](mailto:your-email@example.com).
+For any questions or feedback, please reach out to [kasi.majji24@gmail.com](mailto:kasi.majji24@gmail.com).
 
 ---
 
 <div align="center">
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red)](https://github.com/yourusername)
-
-</div>
